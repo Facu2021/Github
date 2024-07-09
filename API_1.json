@@ -1,0 +1,13 @@
+{
+    "OrderID": 123345,
+    "Adress": "Cordoba 3000",
+    "Status": "Ready",
+    "Articles": [
+    {
+        "Name": "Carne",
+        "Price": 5000,
+        "Quantity": 2,
+        "Dangerous": false
+    }
+    ]
+}
